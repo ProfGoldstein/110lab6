@@ -1,4 +1,3 @@
-
 #!/usr/bin/python
 # Ira Goldstein
 # CSIS110 Lab 6
